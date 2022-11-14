@@ -1,6 +1,7 @@
 # Quiz-website
 
-![Screenshot (928)](https://user-images.githubusercontent.com/76254481/201654050-8c4f71e2-94fa-4111-97db-1a88b6687cd1.png)
-![Screenshot (929)](https://user-images.githubusercontent.com/76254481/201654158-9009d7c4-fd86-448f-81e0-69db7660062c.png)
-![Screenshot (930)](https://user-images.githubusercontent.com/76254481/201654172-5377b8ba-c734-4854-8387-dd4fdee13e10.png)
-![Screenshot (931)](https://user-images.githubusercontent.com/76254481/201654190-98456653-30df-423f-95dc-1f799a86f0bb.png)
+![Screenshot (937)](https://user-images.githubusercontent.com/76254481/201655175-cc631e85-a591-4d75-b787-bb08667b3736.png)
+![Screenshot (938)](https://user-images.githubusercontent.com/76254481/201655185-1c226343-f0d0-4ab5-a23e-54a04dc24715.png)
+![Screenshot (939)](https://user-images.githubusercontent.com/76254481/201655199-f7b25865-dd54-46a7-b82f-121537ff6d4f.png)
+![Screenshot (940)](https://user-images.githubusercontent.com/76254481/201655213-d03dd4d1-5e7e-49b0-80b4-31bcd2a0ea99.png)
+![Screenshot (941)](https://user-images.githubusercontent.com/76254481/201655223-000edb0f-dc6e-4af5-96f6-d5b0fb79f414.png)
